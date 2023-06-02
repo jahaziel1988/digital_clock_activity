@@ -1,0 +1,15 @@
+.sidebar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 13.6vw;
+    height: 130vh;
+    border: 1px solid red;
+    background-color: gray;
+}
+
+.sidebar h1 {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 60px;
+}
